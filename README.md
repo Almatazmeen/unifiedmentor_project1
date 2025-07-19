@@ -58,3 +58,7 @@ An interactive, dual-track Streamlit dashboard that visualizes **public sentimen
 - Pandas, NumPy, Scikit-learn – data handling and ML
 
 ---
+## 📂 Download Dataset
+
+- [📥 train.csv – Download from Google Drive] (https://drive.google.com/file/d/1y5wjOcilhFcDFzSnHqmOHvhzsRdtahzI/view?usp=drive_link)
+- [📥 test.csv – Download from Google Drive] (https://drive.google.com/file/d/17a9c1fhZwQA7jcZU65Xxa6Dk55fjVaxl/view?usp=drive_link)
